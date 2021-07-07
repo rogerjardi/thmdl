@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "THM-Sol1",
+    "owner": "Owner",
+    "description": "sdfasdfasdfsdfsdafsd"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Arch",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Reviewer"
+  }
+}
